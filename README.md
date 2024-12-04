@@ -1,6 +1,3 @@
-Segue o conteúdo formatado e pronto para colar no README do seu repositório no GitHub:
-
-```markdown
 # 🐍 **Introdução à Programação com Python para Data Science**  
 
 Este repositório contém os exercícios e exemplos realizados durante o curso de **Introdução à Programação com Python para Data Science**, oferecido pela **Alura** e ministrado pela instrutora **Mirla**. O objetivo foi fortalecer a lógica de programação e construir uma base sólida para projetos futuros em Data Science.
